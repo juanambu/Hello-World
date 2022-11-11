@@ -1,8 +1,8 @@
-# Autograding Example: C
-This example project is written in C, and tested with make and bash scripts.
+# Hello World Assignment
+You have to make a C program to print `Hello, World!`
 
 ### The assignment
-The tests are currently failing because we're printing the wrong string. Correcting the `printf` will fix the tests.
+You have to make a C program to print `Hello, World!`
 
 ### Setup command
 N/A
